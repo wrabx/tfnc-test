@@ -93,7 +93,7 @@ export function InquiryForm() {
       }
       const detail = body?.message ?? `FormSubmit returned ${response.status}.`;
       if (/activat/i.test(detail)) {
-        setFormError("FormSubmit needs a one-time confirmation. Check travelfitness@gmail.com, including spam, click Activate Form, then send this request again.");
+        setFormError("FormSubmit needs a one-time confirmation. Check travelfitnessnc@gmail.com, including spam, click Activate Form, then send this request again.");
       } else if (response.status === 429 || /rate limit/i.test(detail)) {
         setFormError("FormSubmit is rate-limiting this inbox. Wait a few minutes, then send again.");
       } else {

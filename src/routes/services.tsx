@@ -98,7 +98,7 @@ function Services() {
             <h2 className="font-display text-4xl">Let's get stronger together.</h2>
             <p className="mt-4 text-muted">
               Tell us the service and where you want to train. The note goes to
-              travelfitness@gmail.com.
+              travelfitnessnc@gmail.com.
             </p>
           </div>
           <InquiryForm />

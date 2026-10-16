@@ -1,6 +1,6 @@
 export const phoneDisplay = "(936) 499-0032";
 export const phoneHref = "tel:+19364990032";
-export const email = "travelfitness@gmail.com";
+export const email = "travelfitnessnc@gmail.com";
 export const youtube = "https://www.youtube.com/channel/UC3nveZeW13OG5jZ3233yukw";
 export const cities = "Winston-Salem, Greensboro, and High Point";
 
